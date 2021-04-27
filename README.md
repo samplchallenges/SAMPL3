@@ -24,9 +24,9 @@ Challenge overview paper: [DOI](https://doi.org/10.1007/s10822-012-9580-z) • [
 ## Files
 Input files provided to participants:
 
-* [host-guest](https://github.com/samplchallenges/SAMPL3/host-guest)
-* [solvation energy](https://github.com/samplchallenges/SAMPL3/solvation_energy)
-* [fragment-protein affinity](https://github.com/samplchallenges/SAMPL3/fragment-protein_affinity)
+* [host-guest](host-guest)
+* [solvation energy](solvation_energy)
+* [fragment-protein affinity](fragment-protein_affinity)
 
 ## LICENSE
 

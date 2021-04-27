@@ -1,0 +1,60 @@
+###################################################################################################
+##
+##  Transfer Energy Prediction Results File
+##
+##  Please report transfer energies (kcal/mol) as well as a             
+##  confidence estimation.  Be sure to leave whitespace between values.                       
+##                       
+##  All predictions should reflect conditions of 298K and transfer from gas
+##  at 1M to aqueous at 1M.
+##
+##  Confidence in the prediction of each compound should be assigned an 
+##  integer value from 1 to 5.                
+##      5: High confidence      1:  Low confidence                               
+##                                                                                               
+###################################################################################################
+##
+##  Format
+##  name:  XferE Confidence
+##
+##  Example
+##  xfer3.1:  -7.45  4
+##  xfer3.2:  -4.5  2
+##
+###################################################################################################
+xfer3.01:
+xfer3.02:
+xfer3.03:
+xfer3.04:
+xfer3.05:
+xfer3.06:
+xfer3.07:
+xfer3.08:
+xfer3.09:
+xfer3.10:
+xfer3.11:
+xfer3.12:
+xfer3.13:
+xfer3.14:
+xfer3.15:
+xfer3.16:
+xfer3.17:
+xfer3.18:
+xfer3.19:
+xfer3.20:
+xfer3.21:
+xfer3.22:
+xfer3.23:
+xfer3.24:
+xfer3.25:
+xfer3.26:
+xfer3.27:
+xfer3.28:
+xfer3.29:
+xfer3.30:
+xfer3.31:
+xfer3.32:
+xfer3.33:
+xfer3.34:
+xfer3.35:
+xfer3.36:

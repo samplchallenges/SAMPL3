@@ -1,0 +1,41 @@
+## Host-Guest Affinity Prediction Results File                                             
+##                                                                                               
+##  Please report binding energies (kcal/mol) as well as a             
+##  confidence estimation.  Be sure to leave whitespace between values.                       
+##                                                                                                                                                                                            
+##  Confidence in the prediction of each compound should be assigned an 
+##  integer value from 1 to 5.                
+##      5: High confidence      1:  Low confidence                               
+##                                                                                               
+###################################################################################################
+##
+##  Format
+##  name:  BindE Confidence
+##
+##  Example
+##  h1.guest1:  -7.45  4
+##  h1.guest2:  -4.5  2
+##
+###################################################################################################
+##  Host1 System
+## The affinity of the h1.guest1 molecule was measured on a racemic mixture.  Please provide an average prediction for the mixture.  
+## If possible, please report predictions for each of the h1.guest1 isomers
+h1.guest1: 
+h1.guest1_R:
+h1.guest1_S:
+h1.guest2: 
+h1.guest3: 
+h1.guest4: 
+h1.guest5: 
+h1.guest6: 
+h1.guest7:
+
+###################################################################################################
+##  Host2 System
+h2.guest1: 
+h2.guest2: 
+ 
+###################################################################################################
+##  Host3 System
+h3.guest1: 
+h3.guest2: 

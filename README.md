@@ -1,5 +1,6 @@
 # SAMPL3
 Archived input files from the SAMPL3 challenge
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5508282.svg)](https://doi.org/10.5281/zenodo.5508282)
 
 ## Challenge overview
 SAMPL3 was organized by Matt Geballe, Michael Gilson, Anthony Nicholls and Geoff Skillman.
